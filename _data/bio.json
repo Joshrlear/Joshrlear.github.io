@@ -6,7 +6,7 @@
     "email": "job.joshrlear@gmail.com",
     "phone": "6195076807",
     "website": "https://joshrlear.github.io",
-    "summary": "Hey there! 😊 I’m Josh Lear, a fullstack JavaScript developer and senior technical support engineer at CARET. I love creating web applications using React, Node.js, PostgreSQL and Socket.io. 🚀 I also enjoy learning new technologies and solving problems. 💡 I have a strong background in data structures and algorithms. 🧠 You can find some of my projects below and feel free to connect with me! 😄",
+    "summary": "Hey there! 😊 I'm Josh Lear, a fullstack JavaScript developer and senior technical support engineer at CARET. I love creating web applications using React, Node.js, PostgreSQL and Socket.io. 🚀 I also enjoy learning new technologies and solving problems. 💡 I have a strong background in data structures and algorithms. 🧠 You can find some of my projects below and feel free to connect with me! 😄",
     "location": { "address": "", "postalCode": "91942", "city": "La Mesa", "countryCode": "USA", "region": "California" },
     "profiles": [
       { "network": "github", "username": "joshrlear", "url": "https://github.com/Joshrlear" },
@@ -26,7 +26,6 @@
     { "name": "Augmented Reality" }, 
     { "name": "Internet of Things" }, 
     { "name": "DevOps" } 
-  ]
   ],
   "skills": [
     {
@@ -56,12 +55,11 @@
     { 
       "institution": "Cuyamaca College", 
       "area": "", 
-      "studyType": "Associate’s degree, Business Administration and Management, General", 
+      "studyType": "Associate's degree, Business Administration and Management, General", 
       "startDate": "2009", 
       "endDate": "2011" 
     }],
   "work": [
-    [
   {
     "company": "CARET",
     "position": "Senior Technical Support Engineer",
@@ -94,14 +92,14 @@
       "Performed tests, troubleshoot software, and fixed bugs using various tools and frameworks",
       "Developed and maintained web services and interfaces using front-end and back-end technologies", 
       "Built new product features or APIs using best practices and design principles", "Performed tests, troubleshoot software, and fixed bugs using various tools and frameworks", 
-      "Created identity verification applications using Node.js, Google Cloud’s Google Vision SDK, and Azure’s Face API", 
+      "Created identity verification applications using Node.js, Google Cloud's Google Vision SDK, and Azure's Face API", 
       "Implemented facial recognition and optical character recognition for extracting text from government-issued identifications", 
-      "Used Google’s CDN to distribute user verification status and decrease server load"
+      "Used Google's CDN to distribute user verification status and decrease server load"
      ]
 
   }
 ],
-  "references": [
+"references": [
     {
       "name": "Available upon request"
     }
