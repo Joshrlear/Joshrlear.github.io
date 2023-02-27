@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/udown/logo.png
+image: img/udown/logo.PNG
 title: "Udown"
 date: 2021
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A mobile application for finding people who are down to hang out that I developed in ICS 491."
 ---
 
-<img class="img-fluid" src="../img/udown/banner.png">
+<img class="img-fluid" src="../img/udown/banner.PNG">
 
 Udown is a mobile application that I created as an individual project in ICS 491, Spring 2021. The project helped me learn how to design and implement a cross-platform app.
 
