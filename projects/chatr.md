@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://raw.githubusercontent.com/Joshrlear/chatr-client/master/src/images/logo.JPG
+image: img/chatr/chatr-logo.PNG
 title: "chatr"
 date: 2021
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "chatr is a web-based chat client that allows users to create and join chat rooms using React and Socket.io."
 ---
 
-<img class="img-fluid" src="https://github.com/Joshrlear/chatr-client/blob/master/src/images/imageedit_6_5193297603.png">
+<img class="img-fluid" src="../img/chatr/chatr-header.png">
 
 # Chatr
 
