@@ -4,7 +4,7 @@ type: essay
 title: "Synthropy: How AI Is Transforming Human Society and Culture"
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
-published: false
+published: true
 labels:
   - AI regulation overview
   - AI ethics guidelines
