@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Josh Lear",
+    "label": "Fullstack Javascript Developer",
+    "picture": "https://avatars.githubusercontent.com/u/35083202?v=4",
+    "email": "job.joshrlear@gmail.com",
+    "phone": "6195076807",
+    "website": "https://joshrlear.github.io",
+    "summary": "Hey there! 😊 I'm Josh Lear, a fullstack JavaScript developer and senior technical support engineer at CARET. I love creating web applications using React, Node.js, PostgreSQL and Socket.io. 🚀 I also enjoy learning new technologies and solving problems. 💡 I have a strong background in data structures and algorithms. 🧠 You can find some of my projects below and feel free to connect with me! 😄",
+    "location": { "address": "", "postalCode": "91942", "city": "La Mesa", "countryCode": "USA", "region": "California" },
+    "profiles": [
+      { "network": "github", "username": "joshrlear", "url": "https://github.com/Joshrlear" },
+      { "network": "linkedin", "username": "Josh Lear", "url": "https://www.linkedin.com/in/weshouldhirejosh/" }
+    ]
+  },
+  "interests": [ 
+    { "name": "Neuromorphic Computing" }, 
+    { "name": "Quantum Computing" }, 
+    { "name": "Robotics" }, 
+    { "name": "Artificial Intelligence" }, 
+    { "name": "Blockchain" }, 
+    { "name": "Cloud Computing" }, 
+    { "name": "Cybersecurity" }, 
+    { "name": "Data Science" }, 
+    { "name": "Machine Learning" }, 
+    { "name": "Augmented Reality" }, 
+    { "name": "Internet of Things" }, 
+    { "name": "DevOps" } 
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "HTML", "CSS", "JavaScript", "React", "Node.js", "Python", "Flask", "Java", "Ruby", "PHP", "Web architecture", "Web design", "UI/UX" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MongoDB", "Express", "Git and GitHub", "Docker", "Kubernetes" ]
+    }
+  ],
+  "education": [ 
+    { 
+      "institution": "Thinkful", 
+      "area": "Full-Stack Developer", 
+      "studyType": "Certificate.", 
+      "startDate": "2019-01", 
+      "endDate": "2019-08" 
+    }, 
+    { 
+      "institution": "Arizona State University", 
+      "area": "", 
+      "studyType": "Bachelor of Business Administration - BBA", 
+      "startDate": "2011-08-01", 
+      "endDate": "2013-06-01" 
+    }, 
+    { 
+      "institution": "Cuyamaca College", 
+      "area": "", 
+      "studyType": "Associate's degree, Business Administration and Management, General", 
+      "startDate": "2009", 
+      "endDate": "2011" 
+    }],
+  "work": [
+  {
+    "company": "CARET",
+    "position": "Senior Technical Support Engineer",
+    "website": "https://getcaret.com/",
+    "startDate": "2020-12",
+    "endDate": "current",
+    "summary": "A senior technical support engineer who provided troubleshooting, configuration, and administration services involving web server configuration, domain name service updates, content distribution network configuration, load balancing configuration and management, and Google Search Appliance administration.",
+    "highlights": [
+      "Provided technical support to clients by identifying and resolving hardware or software issues", 
+      "Monitored network activity and identified performance issues that may need to be addressed by IT support staff", 
+      "Coordinated and participated in team meetings to discuss new technology initiatives", 
+      "Diagnosed and resolved IT-related problems in an organization, including virus issues, forgotten passwords, and software updates", 
+      "Installed, configured, and tested computer hardware and software", 
+      "Provided advanced level technical support for escalated customer issues", 
+      "Supported customers per the details contained in the customer maintenance and support contracts", 
+      "Maintained a high level of customer satisfaction through professionalism", 
+      "Recommended, developed, and implemented workplace endpoint technology initiatives", 
+      "Worked with other IT staff in installing, maintaining, and troubleshooting technical equipment"
+    ]
+
+  },
+  {
+    "company": "Kamshed",
+    "position": "Full Stack Developer",
+    "summary":"A full stack JavaScript developer who developed both client and server software using HTML, CSS, JavaScript, jQuery, Angular, Node.js and MongoDB.",
+    
+"highlights":[
+      "Developed and maintained web services and interfaces using front-end and back-end technologies",
+      "Built new product features or APIs using best practices and design principles",
+      "Performed tests, troubleshoot software, and fixed bugs using various tools and frameworks",
+      "Developed and maintained web services and interfaces using front-end and back-end technologies", 
+      "Built new product features or APIs using best practices and design principles", "Performed tests, troubleshoot software, and fixed bugs using various tools and frameworks", 
+      "Created identity verification applications using Node.js, Google Cloud's Google Vision SDK, and Azure's Face API", 
+      "Implemented facial recognition and optical character recognition for extracting text from government-issued identifications", 
+      "Used Google's CDN to distribute user verification status and decrease server load"
+     ]
+
+  }
+],
+"references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
