@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/zillowscraper/logo.PNG
+image: img/zillowscraper/logo.png
 title: "Zillow Scraper Server"
 date: 2023
 published: true
