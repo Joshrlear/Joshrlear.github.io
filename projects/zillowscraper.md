@@ -3,18 +3,16 @@ layout: project
 type: project
 image: img/zillowscraper/logo.png
 title: "Zillow Scraper Server"
-date: 2023
+date: 2021
 published: true
 labels:
   - Node.js
   - Socket.io
   - Zillow API
-  - Puppeteer
 summary: "Zillow Scraper Server is a server application that scrapes data from Zillow.com and provides a RESTful API for querying and filtering data."
 ---
 
-
-# Zillow Scraper Server
+<img src="img/zillowscraper/banner.PNG">
 
 This is a server application that scrapes data from Zillow.com, one of the most popular websites used to search for homes, check home values, and find real estate agents. It uses Zillow's internal API and recursively splits the map four times to get around the 500-results-per-search limit.
 
@@ -42,7 +40,7 @@ Request:
 
 Response:
 
-```json
+``json
 {
   "total": 1234,
   "page": 1,
