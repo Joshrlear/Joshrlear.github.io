@@ -13,17 +13,17 @@ labels:
   - Search Innovation
 ---
 
-<img class="rounded float-start pe-4" src="../img/essays/searchEngineBattle/BingVsGoogle.png">
+<img class="img-fluid" src="../img/essays/searchEngineBattle/BingVsGoogle.png">
 
 The search engine war between Google and Microsoft is heating up, and OpenAI is the secret weapon that could tip the balance. 🕹️
 
-<img class="rounded float-start pe-4" src="../img/essays/searchEngineBattle/google.jpg">
+<img class="img-fluid" src="../img/essays/searchEngineBattle/google.jpg">
 
 Google has been the king of search for a long time, with a market share of about 93%. But Microsoft is not giving up easily. It has invested billions of dollars in OpenAI, a research organization that aims to create artificial intelligence that can benefit humanity . 🚀
 
 One of the products of OpenAI is ChatGPT, a chatbot that can generate natural language responses based on any input. ChatGPT is powered by a huge neural network that has been trained on billions of words from the internet . 🧠
 
-<img class="rounded float-start pe-4" src="../img/essays/searchEngineBattle/microsoft-openai.jpg">
+<img class="img-fluid" src="../img/essays/searchEngineBattle/microsoft-openai.jpg">
 
 Microsoft has integrated ChatGPT into its Bing search engine, making it more conversational and personalized. For example, if you ask Bing “What is the best laptop for me?”, it will not just give you a list of links, but also ask you some follow-up questions like “What do you use your laptop for?” or “What is your budget?”. This way, Bing can understand your needs better and give you more relevant results. 👍
 
