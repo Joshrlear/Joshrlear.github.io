@@ -10,12 +10,12 @@ labels:
   - React Native
   - Firebase
   - GitHub
-summary: "A mobile application for finding people who are down to hang out that I developed in ICS 491."
+summary: "A mobile application for finding people who are down to hang out."
 ---
 
 <img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="../img/udown/banner.PNG">
 
-Udown is a mobile application that I created as an individual project in ICS 491, Spring 2021. The project helped me learn how to design and implement a cross-platform app.
+Udown is a mobile application that I created as an individual project, Spring 2021. The project helped me learn how to design and implement a cross-platform app.
 
 Udown is implemented using [React Native](https://reactnative.dev/), a JavaScript framework for building native apps. Within four weeks, I created an app that implements several features including user authentication, profile creation, swiping mechanism, real-time chat, and feedback system.
 
